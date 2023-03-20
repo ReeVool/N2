@@ -48,8 +48,9 @@ span {
     color: #000;
     cursor: pointer;
 }
-/* .a-links:hover {
-} */
+.a-links:hover {
+    color: yellowgreen;
+}
 
 
 
