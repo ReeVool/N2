@@ -40,7 +40,7 @@ span {
 }
 
 .navp {
-    color: #fff;
+    color: gray;
     margin: 1em;
     transition: all 0.3s ease;
     cursor: pointer;
