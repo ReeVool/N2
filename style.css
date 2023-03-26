@@ -442,7 +442,7 @@ h1 {
 #block-buttons {
     background-color: #9EAB8D;
     height: 300px;
-    width: 46.3%;
+    width: 45.3%;
     margin-left: 50%;
     padding: 35px;
 }
@@ -559,4 +559,10 @@ html, body {
     width: 100%;
     margin: 0;
     font-family: Segoe UI;
+}
+
+body {
+    overflow: auto;
+    overflow-y: scroll;
+    overflow-x: hidden ;
 }
