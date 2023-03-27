@@ -445,7 +445,7 @@ h1 {
     height: 300px;
     width: 45%;
     position: absolute;
-    margin-left: 48%;
+    right: 0;
     padding: 35px;
 }
 
