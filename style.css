@@ -25,6 +25,7 @@
     border: 0cm;
     font-weight: bold;
     margin-left: 3em;
+    transition: all 0.3s ease;
 }
 
 #btn1:hover {
@@ -409,6 +410,7 @@ h1 {
     border: none;
     border-radius: 10px;
     font-size: 1em;
+    transition: all 0.3s ease;
 }
 
 .format-elem-btn:hover {
@@ -474,6 +476,7 @@ h1 {
     font-weight: bold;
     font-size: 1em;
     cursor: pointer;
+    transition: all 0.3s ease;
 }
 
 .m-btn-share:hover {
