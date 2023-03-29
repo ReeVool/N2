@@ -461,7 +461,6 @@ h1 {
     border: none;
     margin-left: 5%;
     font-size: 0.9em;
-    transition: all 0.3s ease;
 }
 
 .m-btn-share {
@@ -496,7 +495,6 @@ h1 {
     border: none;
     font-weight: bolder;
     resize: none;
-    transition: all 0.3s ease;
 }
 
 .m-textarea::placeholder {
